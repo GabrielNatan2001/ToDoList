@@ -5,4 +5,6 @@
     <string name="time">Hora</string>
     <string name="label_date">Data</string>
     <string name="label_new_title">Título</string>
+    <string name="label_task">Tarefas</string>
+    <string name="label_new_task">Nova tarefa</string>
 </resources>
