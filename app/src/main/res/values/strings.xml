@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">To_do_List</string>
+    <string name="labrl_new_task">Criar Tarefa</string>
+    <string name="label_cancel_task">Cancelar</string>
+    <string name="time">Hora</string>
+    <string name="label_date">Data</string>
+    <string name="label_new_title">Título</string>
 </resources>
