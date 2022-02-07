@@ -1,5 +1,6 @@
 package com.example.to_do_list.ui
 
+import android.app.Activity
 import android.os.Bundle
 import android.os.PersistableBundle
 import android.util.Log
@@ -63,6 +64,9 @@ class AddTaskActivity: AppCompatActivity() {
                 hour = binding.tilHour.text
             )
             TaskDataSource.insertTask(task)
+
+            setResult(Activity.RESULT_OK)
+            finish()
         }
     }
 }
