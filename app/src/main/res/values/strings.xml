@@ -7,4 +7,6 @@
     <string name="label_new_title">Título</string>
     <string name="label_task">Tarefas</string>
     <string name="label_new_task">Nova tarefa</string>
+    <string name="label_edit">Editar</string>
+    <string name="label_delete">Deletar</string>
 </resources>
